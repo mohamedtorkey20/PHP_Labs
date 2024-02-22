@@ -37,20 +37,3 @@ We welcome contributions to PHP Labs! If you have PHP exercises, tutorials, or a
 
 Please ensure your contributions align with our guidelines and standards.
 
-## Community
-
-Join our community to connect with fellow PHP enthusiasts, ask questions, and share your experiences:
-
-- [PHP Labs Forum](link-to-forum): Engage in discussions, seek help, and share your knowledge with others.
-- [Twitter](link-to-twitter): Follow us on Twitter for updates and announcements.
-
-## Support
-
-If you have any questions or need assistance, feel free to reach out to us:
-
-- Email: [email@example.com](mailto:email@example.com)
-- Discord: [Link to Discord server]
-
-## License
-
-This repository and its contents are licensed under the [License Name]. See the [LICENSE](LICENSE) file for details.
