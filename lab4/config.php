@@ -1,6 +1,6 @@
 <?php
 
-define("__PATH_SERVER__","http://localhost/PHP_Labs/lab/");
+define("__PATH_SERVER__","http://localhost/PHP_Labs/lab4/");
 define("__HOST__","localhost");
 define("__USERNAME__","root");
 define("__PASSWORD__","");
